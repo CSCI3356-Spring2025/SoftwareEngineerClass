@@ -1,7 +1,8 @@
-Hi I'm Sahil! 
+Hi my name is Sahil Saoji! This is my readme document. 
+You have to create your own readme doc titled readMe(your last name here).txt and push it to the repo! 
+Be careful though because you have to pull other's readMe files! 
+You shouldn't get any merge conflicts but be careful 
 
-I am senior at BC
+Please include within your readMe file
 
-Studying CS, Finance, and Art!
-
-My favorite movie is Pulp Fiction
+your name, your school year, your major, and your favorite movie
