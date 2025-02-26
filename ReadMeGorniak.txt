@@ -4,4 +4,4 @@ Junior (2026)
 
 Computer Science; Math
 
-Goodfellas
+Goodfellas, Good Will Hunting
