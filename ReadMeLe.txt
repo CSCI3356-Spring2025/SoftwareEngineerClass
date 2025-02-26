@@ -1,0 +1,1 @@
+Hi I'm Landon Le, I'm a junior, and CS major. My favorite movie is Everything Everywhere All at Once.
