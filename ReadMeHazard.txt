@@ -1,0 +1,1 @@
+Hi I'm Oliver. I'm a junior studying Finance. My favorite movie is the lion king.
