@@ -1,0 +1,1 @@
+priyal, cs, senior, my favorite major is scott pilgrim vs the world.
